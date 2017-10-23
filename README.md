@@ -76,8 +76,10 @@ Fundamentos de Computação
 8. Hierarquia de memória. 
 9. Interface entre processadores e periféricos. 
 10. Fundamentos de Sistemas Operacionais
-	10.1 Gerenciamento de processos e fluxos de execução (threads): 
-		10.1.1 alocação de CPU, 
+	10.1 Gerenciamento de processos e fluxos de execução (threads):
+	[(Gerenciamento de processos e fluxos de execução)](https://www.qconcursos.com/questoes-de-concursos/search?utf8=%E2%9C%93&q=fluxos+de+execu%C3%A7%C3%A3o+%28threads%29)
+		10.1.1 alocação de CPU,
+		[(alocação de CPU)](https://www.qconcursos.com/questoes-de-concursos/search?utf8=%E2%9C%93&q=aloca%C3%A7%C3%A3o+de+CPU)
 		10.1.2 comunicação e sincronização entre processos, 
 		10.1.3 impasses (deadlocks) e 
 		10.1.4 esgotamento de recursos (starvation). 
