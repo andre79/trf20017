@@ -232,7 +232,8 @@ Fundamentos de Computação
 		31.1.6 Transição de Serviços e 
 		31.1.7 Operação de Serviços. 
 	31.2 Contratações de soluções de TI: 
-		31.2.1 Instrução Normativa nº 04, 
-		31.2.2 MPOG/SLTI, de 11 de setembro de 2014 atualizada com a redação dada
-			pela Instrução Normativa nº 2, de 12 de janeiro de 2015. 
+		31.2.1 Instrução Normativa nº 04,
+		[Instrução Normativa nº 04](http://www.florestal.gov.br/documentos/acesso-informacao/institucional/comite-de-tecnologia-da-informacao/1383-guia-de-boas-praticas-em-contratacao-de-solucoes-de-ti-v1-0-1/file)
+		31.2.2 MPOG/SLTI, de 11 de setembro de 2014 atualizada com a redação dada pela Instrução Normativa nº 2, de 12 de janeiro de 2015.
+		[MPOG/SLTI](https://www.governoeletronico.gov.br/documentos-e-arquivos/1%20-%20IN%204%20%2011-9-14.pdf)
 32. Inglês técnico. 
