@@ -80,8 +80,10 @@ Fundamentos de Computação
 	[(Gerenciamento de processos e fluxos de execução)](https://www.qconcursos.com/questoes-de-concursos/search?utf8=%E2%9C%93&q=fluxos+de+execu%C3%A7%C3%A3o+%28threads%29)
 		10.1.1 alocação de CPU,
 		[(alocação de CPU)](https://www.qconcursos.com/questoes-de-concursos/search?utf8=%E2%9C%93&q=aloca%C3%A7%C3%A3o+de+CPU)
-		10.1.2 comunicação e sincronização entre processos, 
-		10.1.3 impasses (deadlocks) e 
+		10.1.2 comunicação e sincronização entre processos,
+		[(comunicação e sincronização entre processos)](https://www.qconcursos.com/questoes-de-concursos/search?utf8=%E2%9C%93&q=comunica%C3%A7%C3%A3o+e+sincroniza%C3%A7%C3%A3o+entre+processos)
+		10.1.3 impasses (deadlocks) e
+		[(Deadlocks)](https://www.qconcursos.com/questoes-de-concursos/search?utf8=%E2%9C%93&q=impasses+%28deadlocks%29+e)
 		10.1.4 esgotamento de recursos (starvation). 
 	10.2 Gerenciamento de memória: 
 		10.2.1 alocação, 
